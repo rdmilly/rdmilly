@@ -8,6 +8,8 @@ The biggest thing I've built is a self-hosted controller that lets AI agents lik
 
 **What's here:** the memory platform that gives my AI tools long-term memory ([helix-memory-platform](https://github.com/rdmilly/helix-memory-platform)) and the Chrome extension that feeds it ([membrain-extension](https://github.com/rdmilly/membrain-extension)), the pipeline I use to find and qualify leads for my automation work ([lead-sourcing-pipeline](https://github.com/rdmilly/lead-sourcing-pipeline)), and the MCP servers that connect Claude to the tools my businesses run on ([business-mcp-servers](https://github.com/rdmilly/business-mcp-servers)). Those four are public copies of private working repos, with the secrets and server addresses taken out.
 
+I also built a gate and blind-review loop that pushes the sites I build until they read as hand-made ([website-refinement-loop](https://github.com/rdmilly/website-refinement-loop)).
+
 Smaller pieces: a discovery scanner in Go ([paving-agent](https://github.com/rdmilly/paving-agent)), an MCP tool for git operations ([git-agent](https://github.com/rdmilly/git-agent)), a health daemon for my servers ([hostinger-watchdog](https://github.com/rdmilly/hostinger-watchdog)), local push-to-talk dictation for Windows ([whisper-ptt](https://github.com/rdmilly/whisper-ptt)), my MCP gateway design ([mcp-tool-flow](https://github.com/rdmilly/mcp-tool-flow)), and the skill files I use to run Claude sessions ([claude-skills](https://github.com/rdmilly/claude-skills)).
 
 I'm studying for CompTIA Security+ and looking for work in AI implementation, automation, solutions engineering or technical project management, remote or around Daytona and Orlando. [LinkedIn](https://linkedin.com/in/rdmilly)
